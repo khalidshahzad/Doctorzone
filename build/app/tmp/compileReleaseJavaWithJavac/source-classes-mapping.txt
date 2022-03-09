@@ -1,4 +1,0 @@
-io/flutter/plugins/GeneratedPluginRegistrant.java
- io.flutter.plugins.GeneratedPluginRegistrant
-pk/doctorzone/com/BuildConfig.java
- pk.doctorzone.com.BuildConfig

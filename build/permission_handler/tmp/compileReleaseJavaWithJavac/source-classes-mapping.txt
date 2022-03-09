@@ -1,9 +1,0 @@
-com/baseflow/permissionhandler/BuildConfig.java
- com.baseflow.permissionhandler.BuildConfig
-com/baseflow/permissionhandler/PermissionHandlerPlugin.java
- com.baseflow.permissionhandler.PermissionHandlerPlugin
- com.baseflow.permissionhandler.PermissionHandlerPlugin$1
- com.baseflow.permissionhandler.PermissionHandlerPlugin$2
- com.baseflow.permissionhandler.PermissionHandlerPlugin$PermissionGroup
- com.baseflow.permissionhandler.PermissionHandlerPlugin$PermissionStatus
- com.baseflow.permissionhandler.PermissionHandlerPlugin$ServiceStatus
