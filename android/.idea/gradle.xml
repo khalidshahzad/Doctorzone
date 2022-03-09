@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/flutter_plugin_android_lifecycle-1.0.11/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/image_picker-0.6.7+22/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/shared_preferences-0.5.12+4/android" />
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$USER_HOME$/flutter/packages/integration_test/android" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

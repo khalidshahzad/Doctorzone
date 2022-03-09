@@ -1,0 +1,4 @@
+io/jojodev/flutter/flutteruseragent/FlutterUserAgentPlugin.java
+ io.jojodev.flutter.flutteruseragent.FlutterUserAgentPlugin
+io/jojodev/flutter/flutteruseragent/BuildConfig.java
+ io.jojodev.flutter.flutteruseragent.BuildConfig

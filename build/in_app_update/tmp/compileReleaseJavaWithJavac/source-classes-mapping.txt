@@ -1,0 +1,2 @@
+de/ffuf/in_app_update/BuildConfig.java
+ de.ffuf.in_app_update.BuildConfig

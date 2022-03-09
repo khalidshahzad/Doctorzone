@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/khalid/StudioProjects/doctorzone/build/app/intermediates/res/merged/release/drawable-v21_launch_background.xml.flat",
+        "source": "/home/khalid/StudioProjects/doctorzone/android/app/src/main/res/drawable-v21/launch_background.xml"
+    },
+    {
+        "merged": "/home/khalid/StudioProjects/doctorzone/build/app/intermediates/res/merged/release/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/khalid/StudioProjects/doctorzone/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/khalid/StudioProjects/doctorzone/build/app/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/khalid/StudioProjects/doctorzone/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/khalid/StudioProjects/doctorzone/build/app/intermediates/res/merged/release/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/khalid/StudioProjects/doctorzone/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/khalid/StudioProjects/doctorzone/build/app/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/khalid/StudioProjects/doctorzone/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/khalid/StudioProjects/doctorzone/build/app/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/khalid/StudioProjects/doctorzone/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    }
+]
